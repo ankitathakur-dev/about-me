@@ -4,13 +4,13 @@ Frontend-focused Web Application Developer with **5 years of experience** buildi
 
 ### 🛠️ Tech Stack & Tools
 - **Frontend:** React.js, Next.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, i18n, HTML5/CSS3
-- **Backend:** PHP, Laravel, RESTful APIs, Strapi (Headless CMS)[cite: 1]
-- **Databases & Tools:** MySQL, Git, GitHub Actions, Postman, Stripe API[cite: 1]
+- **Backend:** PHP, Laravel, RESTful APIs, Strapi (Headless CMS)
+- **Databases & Tools:** MySQL, Git, GitHub Actions, Postman, Stripe API
 
 ### 🔭 Current Focus
-- Building low-latency Next.js application architectures with Server-Side Rendering (SSR)[cite: 1].
-- Implementing internationalization (i18n) workflows and design systems[cite: 1].
-- Expanding workflows in cloud & automation (AWS Cloud Practitioner & GitHub Actions)[cite: 1].
+- Building low-latency Next.js application architectures with Server-Side Rendering (SSR).
+- Implementing internationalization (i18n) workflows and design systems.
+- Expanding workflows in cloud & automation (AWS Cloud Practitioner & GitHub Actions).
 
 ---
 
