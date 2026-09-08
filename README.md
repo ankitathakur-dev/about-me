@@ -14,15 +14,12 @@
 
 ### 🧪 Continuous R&D & Active Learning
 
-I am an avid learner dedicated to expanding my technical repertoire and engineering patterns beyond daily production work.
+I am an+ keen learner dedicated to expanding my technical repertoire and engineering patterns beyond daily production work.
 
 * **🚀 Current Focus Project — Trip Planner API**  
   Building a full-scale, dynamic travel planning backend using **Node.js**, **Express**, and **MongoDB**. 
   * *Key Features:* User authentication, destination route modeling, and custom itinerary database schemas.
   * *Goal:* Deepening architectural patterns in asynchronous Node.js micro-workflows and NoSQL document modeling.
-
-* **📖 [`ankita-codex`](https://github.com/ankitathakur-dev/ankita-codex)**  
-  My dedicated research repository for testing **Next.js Server-Side Rendering (SSR)** optimizations, component design systems, and headless CMS feature spikes.
 
 ---
 
