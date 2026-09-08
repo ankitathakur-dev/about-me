@@ -15,5 +15,5 @@ Frontend-focused Web Application Developer with **5 years of experience** buildi
 ---
 
 📫 **Connect with me:**
-- **LinkedIn:** [linkedin.com/in/ankita-thakur-0543801a5887](https://linkedin.com/in/ankita-thakur-0543801a5887)[cite: 1]
-- **Email:** at9008591@gmail.com[cite: 1]
+- **LinkedIn:** [linkedin.com/in/ankita-thakur-0543801a5887](https://linkedin.com/in/ankita-thakur-0543801a5887)
+- **Email:** at9008591@gmail.com
